@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>YG Studios</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.14.7/react.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.14.7/react-dom.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.23/browser.min.js"></script>
+  </head>
+  <body>
+    <div id="example"></div>
+    <script type="text/babel">
+
+      var ClassItem = React.createClass({
+        render: function () {
+          var mainDivStyle = {
+            width: '100%',
+            border: '1px black solid',
+            marginBottom: '30px'
+          };
+          var divContStyle = {
+            textAlign: 'center',
+            width: '33%',
+            float: 'left'
+          };
+          var divContOtherStyle = {
+            textAlign: 'center',
+            width: '33%',
+            float: 'left',
+            backgroundColor: '#FF7300'
+          };
+          var buttonStyle = {
+            width: '100%',
+            height: '30px'
+          }
+          return (
+            <div className="classItem" style={mainDivStyle} key={this.props._id}>
+              <div>
+                <div className="classInfo" style={divContStyle}>
+                  <p>
+                    <span>Price:</span>
+                    <span>${this.props.price}</span>
+                  </p>
+                  <p>
+                    <span>Start Time:</span>
+                    <span>{this.props.startTime}</span>
+                  </p>
+                  <p>
+                    <span>End Time:</span>
+                    <span>{this.props.endTime}</span>
+                  </p>
+                </div>
+                <div className="generalInfo" style={divContOtherStyle}>
+                  <p>
+                    <span>Name:</span> 
+                    <span>{this.props.name}</span>
+                  </p>
+                  <p>
+                    <span>Class Available:</span> 
+                    <span>{this.props.available ? 'Yes' : 'No'}</span>
+                  </p>
+                  <p>
+                    <span>Description:</span>
+                    <span dangerouslySetInnerHTML={{__html:this.props.description}}></span>
+                  </p>
+                </div>
+                <div className="studioInfo" style={divContStyle}>
+                  <p>
+                    <p>Studio Info</p>
+                    <span>Name:</span>
+                    <span>{this.props.studioName}</span>
+                  </p>
+                  <p>
+                    <span>Address:</span>
+                    <span>{this.props.studioAddress}</span>
+                  </p>
+                </div>
+              </div>
+              <button style={buttonStyle}>{this.props.available ? 'Join Class' : 'Join Waiting List'}</button>
+            </div>
+          );
+        }
+      })
+
+      var ClassList = React.createClass({
+        getInitialState: function () {
+          return {
+            classes: [],
+            fetchDataCalled: false,
+            count: 0,
+
+          };
+        },
+        fetchData: function() {
+          $.ajax({
+            url: 'http://api.dev.ygstudios.com/query',
+            method: 'POST',
+            data: 'data= { classes.limit(10).offset(' + this.state.count +') {'
+              + 'count,'
+              + 'edges {'
+                  + 'id,'
+                  + 'name,'
+                  + 'description,'
+                  + 'start_time,'
+                  + 'end_time,'
+                  + 'is_available,'
+                  + 'price,'
+                  + 'studio {'
+                    + 'name,'
+                    + 'address'
+                  + '}'
+               + '}' 
+             + '}' 
+            + '}', 
+            cache: false,
+            success: function (data) {
+              var count = this.state.count + 10;
+              if(data.classes && data.classes.edges){
+                this.setState({
+                  classes: this.state.classes.concat(data.classes.edges),
+                  fetchDataCalled: false,
+                  count: count,
+                });  
+              }
+            }.bind(this),
+            error: function(xhr, status, err) {
+              console.error('/', status, err.toString());
+            }.bind(this)
+          });
+        },
+        componentDidMount: function () {
+          window.addEventListener('scroll', this.scrollEvent);
+          this.fetchData();
+        },
+        componentWillUnmount: function() {
+          window.removeEventListener('scroll', this.scrollEvent);
+        },
+        scrollEvent: function (evt) {
+          if (!this.state.fetchDataCalled) {
+            if (evt.pageY/document.body.scrollHeight > .75) {
+              this.setState({fetchDataCalled: true});
+              this.fetchData();  
+            }
+          }  
+        },
+        render: function() {
+          var classItems = this.state.classes.map(function (item){
+            var dt = function (unixTime){
+              var d = new Date(unixTime);
+              return d.toUTCString();
+            }
+            return (
+              <ClassItem 
+                id={item.id} 
+                name={item.name} 
+                available={item.is_available} 
+                price={item.price}
+                description={item.description} 
+                studioName={item.studio.name}
+                studioAddress={item.studio.address}
+                startTime={dt(item.start_time)}
+                endTime={dt(item.end_time)}
+              />
+            )
+          });
+          var style = {
+            width: '100%'
+          }
+
+          return (
+            <div style={style} onScroll={this.scrollEvent}>
+              {classItems}
+            </div>
+          )
+        }
+      });
+      
+
+      var ClassApp = React.createClass({
+        render: function() {
+          var style = {
+            color: 'red'
+          };
+          return (
+          <div stle={style}>
+            <h3>Class List</h3>
+            <ClassList/>
+            </div>
+          );
+        }
+      });
+      ReactDOM.render(<ClassApp />, document.getElementById('example'));
+    </script>
+  </body>
+</html>

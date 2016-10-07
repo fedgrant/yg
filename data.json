@@ -1,0 +1,1403 @@
+{
+  "classes": [
+  {
+    "_id": "56dcef5f04f8c4c6386db42a",
+    "index": 0,
+    "name": "Name_0",
+    "is_available": true,
+    "price": "$2,923.15",
+    "description": "Yoga Class 0 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "109 High Street, Linwood, Minnesota, 5637"
+    },
+    "start_time": "Sunday, December 6, 2015 6:48 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef5fbabf1bdbd6361d8f",
+    "index": 1,
+    "name": "Name_1",
+    "is_available": true,
+    "price": "$1,619.33",
+    "description": "Yoga Class 1 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "439 Garden Place, Morningside, Hawaii, 4249"
+    },
+    "start_time": "Tuesday, January 13, 2015 12:56 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef5f84ea66f59ce3f951",
+    "index": 2,
+    "name": "Name_2",
+    "is_available": false,
+    "price": "$1,044.36",
+    "description": "Yoga Class 2 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "876 Beaver Street, Guilford, American Samoa, 3528"
+    },
+    "start_time": "Sunday, May 4, 2014 3:28 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef5fd1c994a2f965a707",
+    "index": 3,
+    "name": "Name_3",
+    "is_available": true,
+    "price": "$1,839.19",
+    "description": "Yoga Class 3 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "312 Prospect Street, Rew, Arkansas, 901"
+    },
+    "start_time": "Tuesday, March 11, 2014 7:36 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef5fdf384f3cb17e3179",
+    "index": 4,
+    "name": "Name_4",
+    "is_available": true,
+    "price": "$1,040.93",
+    "description": "Yoga Class 4 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "174 Richmond Street, Welda, Michigan, 3058"
+    },
+    "start_time": "Wednesday, January 28, 2015 5:03 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef5f7184c6718d7d1a3d",
+    "index": 5,
+    "name": "Name_5",
+    "is_available": false,
+    "price": "$3,280.47",
+    "description": "Yoga Class 5 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "154 Dennett Place, Coventry, Pennsylvania, 7272"
+    },
+    "start_time": "Saturday, January 10, 2015 7:37 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef5f2fb4d8dedadc4765",
+    "index": 6,
+    "name": "Name_6",
+    "is_available": false,
+    "price": "$2,084.29",
+    "description": "Yoga Class 6 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "527 Berriman Street, Wilsonia, Arizona, 516"
+    },
+    "start_time": "Wednesday, July 16, 2014 4:17 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef5f9502fa751ecefd57",
+    "index": 7,
+    "name": "Name_7",
+    "is_available": false,
+    "price": "$2,340.80",
+    "description": "Yoga Class 7 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "483 Bevy Court, Winesburg, Alaska, 456"
+    },
+    "start_time": "Sunday, February 15, 2015 1:16 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef5f13c8d56c4292c08e",
+    "index": 8,
+    "name": "Name_8",
+    "is_available": true,
+    "price": "$3,132.35",
+    "description": "Yoga Class 8 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "286 Grattan Street, Reinerton, Palau, 5370"
+    },
+    "start_time": "Sunday, July 12, 2015 5:36 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef5f6e6f6764f68db11f",
+    "index": 9,
+    "name": "Name_9",
+    "is_available": false,
+    "price": "$3,904.01",
+    "description": "Yoga Class 9 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "878 Mill Lane, Edgar, Northern Mariana Islands, 1625"
+    },
+    "start_time": "Saturday, November 28, 2015 1:11 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef5fcfe0145b41868120",
+    "index": 10,
+    "name": "Name_10",
+    "is_available": true,
+    "price": "$1,311.27",
+    "description": "Yoga Class 10 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "752 Livonia Avenue, Falconaire, Missouri, 2938"
+    },
+    "start_time": "Thursday, October 30, 2014 2:06 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef5f5e841e2222cc4f6b",
+    "index": 11,
+    "name": "Name_11",
+    "is_available": true,
+    "price": "$1,106.33",
+    "description": "Yoga Class 11 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "971 Coventry Road, Marenisco, North Dakota, 584"
+    },
+    "start_time": "Sunday, July 5, 2015 9:38 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef5f269b7ae082c4e67f",
+    "index": 12,
+    "name": "Name_12",
+    "is_available": true,
+    "price": "$1,877.61",
+    "description": "Yoga Class 12 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "483 Bowery Street, Katonah, Tennessee, 3745"
+    },
+    "start_time": "Wednesday, March 19, 2014 12:25 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef5fb75c5b1d47a538a4",
+    "index": 13,
+    "name": "Name_13",
+    "is_available": false,
+    "price": "$1,422.10",
+    "description": "Yoga Class 13 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "310 Schaefer Street, Hiseville, Marshall Islands, 6536"
+    },
+    "start_time": "Thursday, August 13, 2015 4:03 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef5fc5939e49a63f9444",
+    "index": 14,
+    "name": "Name_14",
+    "is_available": true,
+    "price": "$3,484.67",
+    "description": "Yoga Class 14 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "768 Garfield Place, Wattsville, California, 8587"
+    },
+    "start_time": "Thursday, December 11, 2014 9:36 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef5f9d28c90376bb7350",
+    "index": 15,
+    "name": "Name_15",
+    "is_available": false,
+    "price": "$2,155.05",
+    "description": "Yoga Class 15 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "936 Brightwater Avenue, Conestoga, Kansas, 239"
+    },
+    "start_time": "Wednesday, July 30, 2014 10:08 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef5f47be9879cb1d8ffb",
+    "index": 16,
+    "name": "Name_16",
+    "is_available": false,
+    "price": "$3,887.70",
+    "description": "Yoga Class 16 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "264 Summit Street, Harborton, Louisiana, 3250"
+    },
+    "start_time": "Monday, January 11, 2016 7:28 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef5f34e50e69e2a86beb",
+    "index": 17,
+    "name": "Name_17",
+    "is_available": true,
+    "price": "$3,130.46",
+    "description": "Yoga Class 17 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "963 Anna Court, Sabillasville, Georgia, 622"
+    },
+    "start_time": "Sunday, June 21, 2015 8:08 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef5f9463ada845f4a9e2",
+    "index": 18,
+    "name": "Name_18",
+    "is_available": true,
+    "price": "$1,045.74",
+    "description": "Yoga Class 18 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "697 Halleck Street, Jenkinsville, Federated States Of Micronesia, 220"
+    },
+    "start_time": "Wednesday, February 4, 2015 8:35 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60c6c7141478736f26",
+    "index": 19,
+    "name": "Name_19",
+    "is_available": false,
+    "price": "$3,232.82",
+    "description": "Yoga Class 19 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "184 Oceanview Avenue, Hollins, Mississippi, 8764"
+    },
+    "start_time": "Sunday, December 13, 2015 4:55 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60e9749d389a08d9aa",
+    "index": 20,
+    "name": "Name_20",
+    "is_available": false,
+    "price": "$2,767.45",
+    "description": "Yoga Class 20 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "982 Bradford Street, Hayden, South Dakota, 6227"
+    },
+    "start_time": "Monday, June 29, 2015 8:12 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef6053ab2606bc5b3745",
+    "index": 21,
+    "name": "Name_21",
+    "is_available": true,
+    "price": "$1,531.93",
+    "description": "Yoga Class 21 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "568 Channel Avenue, Silkworth, Texas, 3768"
+    },
+    "start_time": "Sunday, February 2, 2014 8:18 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60ef65e89e4c121fde",
+    "index": 22,
+    "name": "Name_22",
+    "is_available": false,
+    "price": "$3,114.81",
+    "description": "Yoga Class 22 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "903 Elmwood Avenue, Naomi, Iowa, 3721"
+    },
+    "start_time": "Sunday, September 13, 2015 9:23 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef603c92456d1468dc56",
+    "index": 23,
+    "name": "Name_23",
+    "is_available": false,
+    "price": "$1,977.27",
+    "description": "Yoga Class 23 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "695 Oriental Boulevard, Allendale, Illinois, 3831"
+    },
+    "start_time": "Tuesday, January 6, 2015 10:57 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60c753794503684c49",
+    "index": 24,
+    "name": "Name_24",
+    "is_available": false,
+    "price": "$1,981.32",
+    "description": "Yoga Class 24 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "132 Humboldt Street, Fontanelle, Virginia, 1030"
+    },
+    "start_time": "Tuesday, November 3, 2015 5:52 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef606cb19fdc9e72500d",
+    "index": 25,
+    "name": "Name_25",
+    "is_available": true,
+    "price": "$2,529.52",
+    "description": "Yoga Class 25 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "176 Conduit Boulevard, Starks, North Carolina, 107"
+    },
+    "start_time": "Sunday, February 16, 2014 7:18 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60388d905923d2ca79",
+    "index": 26,
+    "name": "Name_26",
+    "is_available": false,
+    "price": "$2,095.23",
+    "description": "Yoga Class 26 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "824 Harden Street, Flintville, Virgin Islands, 4549"
+    },
+    "start_time": "Monday, March 24, 2014 1:19 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef600d608a313ca744f0",
+    "index": 27,
+    "name": "Name_27",
+    "is_available": true,
+    "price": "$2,153.49",
+    "description": "Yoga Class 27 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "381 Clara Street, Castleton, New Mexico, 534"
+    },
+    "start_time": "Monday, January 18, 2016 3:42 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef609024b6bb0c960cf5",
+    "index": 28,
+    "name": "Name_28",
+    "is_available": false,
+    "price": "$1,209.80",
+    "description": "Yoga Class 28 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "438 Goodwin Place, Konterra, Montana, 5063"
+    },
+    "start_time": "Wednesday, September 10, 2014 7:20 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60a1e1d18b3a4ae350",
+    "index": 29,
+    "name": "Name_29",
+    "is_available": false,
+    "price": "$2,494.73",
+    "description": "Yoga Class 29 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "802 Duffield Street, Jacksonwald, Ohio, 2501"
+    },
+    "start_time": "Friday, January 30, 2015 1:34 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef605273eb49ba1da793",
+    "index": 30,
+    "name": "Name_30",
+    "is_available": false,
+    "price": "$3,519.42",
+    "description": "Yoga Class 30 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "114 Fair Street, Bynum, Wyoming, 4312"
+    },
+    "start_time": "Tuesday, February 24, 2015 11:26 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60212c8f459e8c3fa9",
+    "index": 31,
+    "name": "Name_31",
+    "is_available": false,
+    "price": "$2,190.76",
+    "description": "Yoga Class 31 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "281 Seton Place, Walker, South Carolina, 7967"
+    },
+    "start_time": "Wednesday, May 6, 2015 8:49 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef6074403755b5ab486b",
+    "index": 32,
+    "name": "Name_32",
+    "is_available": true,
+    "price": "$1,567.99",
+    "description": "Yoga Class 32 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "779 Tehama Street, Duryea, Oregon, 527"
+    },
+    "start_time": "Thursday, January 14, 2016 4:34 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60712360bc7bb7eaa4",
+    "index": 33,
+    "name": "Name_33",
+    "is_available": false,
+    "price": "$2,605.03",
+    "description": "Yoga Class 33 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "947 Elliott Walk, Grahamtown, Puerto Rico, 283"
+    },
+    "start_time": "Friday, June 6, 2014 8:16 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef6081a3769730968715",
+    "index": 34,
+    "name": "Name_34",
+    "is_available": true,
+    "price": "$1,066.83",
+    "description": "Yoga Class 34 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "487 Oriental Court, Thatcher, Washington, 5691"
+    },
+    "start_time": "Saturday, August 22, 2015 4:35 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60e2d8b91a26910979",
+    "index": 35,
+    "name": "Name_35",
+    "is_available": true,
+    "price": "$1,817.58",
+    "description": "Yoga Class 35 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "421 Gardner Avenue, Caledonia, New Jersey, 5315"
+    },
+    "start_time": "Friday, April 3, 2015 7:26 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef607a4fa202019065e1",
+    "index": 36,
+    "name": "Name_36",
+    "is_available": true,
+    "price": "$2,789.64",
+    "description": "Yoga Class 36 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "758 Beadel Street, Joes, Nebraska, 1871"
+    },
+    "start_time": "Sunday, April 5, 2015 12:58 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef6032eceb0953323bbe",
+    "index": 37,
+    "name": "Name_37",
+    "is_available": false,
+    "price": "$2,460.64",
+    "description": "Yoga Class 37 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "837 Vista Place, Hasty, Massachusetts, 486"
+    },
+    "start_time": "Thursday, August 7, 2014 9:37 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef603aab282a06d38fc6",
+    "index": 38,
+    "name": "Name_38",
+    "is_available": false,
+    "price": "$1,800.94",
+    "description": "Yoga Class 38 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "740 Bedell Lane, Templeton, Idaho, 5747"
+    },
+    "start_time": "Thursday, April 17, 2014 5:55 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60316161fa83f8c20c",
+    "index": 39,
+    "name": "Name_39",
+    "is_available": false,
+    "price": "$1,778.62",
+    "description": "Yoga Class 39 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "392 Cass Place, Odessa, Indiana, 878"
+    },
+    "start_time": "Monday, June 23, 2014 8:34 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef602c30c0a529c43555",
+    "index": 40,
+    "name": "Name_40",
+    "is_available": false,
+    "price": "$1,313.46",
+    "description": "Yoga Class 40 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "660 Hopkins Street, Dale, Vermont, 6637"
+    },
+    "start_time": "Sunday, May 18, 2014 9:22 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60c675e4c6498315ce",
+    "index": 41,
+    "name": "Name_41",
+    "is_available": true,
+    "price": "$1,455.30",
+    "description": "Yoga Class 41 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "360 Albee Square, Wilmington, Wisconsin, 8253"
+    },
+    "start_time": "Monday, April 14, 2014 5:37 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60f9da0b3e3c340e73",
+    "index": 42,
+    "name": "Name_42",
+    "is_available": false,
+    "price": "$2,993.06",
+    "description": "Yoga Class 42 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "988 Moore Place, Worcester, New Hampshire, 8309"
+    },
+    "start_time": "Wednesday, January 1, 2014 7:33 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60be4d90f61efbe5db",
+    "index": 43,
+    "name": "Name_43",
+    "is_available": false,
+    "price": "$1,370.12",
+    "description": "Yoga Class 43 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "363 Revere Place, Thynedale, Florida, 5447"
+    },
+    "start_time": "Tuesday, December 1, 2015 3:15 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef6070b824a5e95b804d",
+    "index": 44,
+    "name": "Name_44",
+    "is_available": true,
+    "price": "$1,871.14",
+    "description": "Yoga Class 44 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "589 Ridge Court, Dellview, New York, 654"
+    },
+    "start_time": "Sunday, June 29, 2014 9:11 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef607234b9a4dcc96a58",
+    "index": 45,
+    "name": "Name_45",
+    "is_available": true,
+    "price": "$2,361.95",
+    "description": "Yoga Class 45 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "840 Hunterfly Place, Valmy, District Of Columbia, 588"
+    },
+    "start_time": "Sunday, May 10, 2015 3:15 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef6069b286e5e0d0e198",
+    "index": 46,
+    "name": "Name_46",
+    "is_available": false,
+    "price": "$1,351.35",
+    "description": "Yoga Class 46 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "116 Arkansas Drive, Holcombe, Connecticut, 916"
+    },
+    "start_time": "Saturday, September 5, 2015 11:02 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef602cb57a3af22d5f34",
+    "index": 47,
+    "name": "Name_47",
+    "is_available": false,
+    "price": "$1,696.35",
+    "description": "Yoga Class 47 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "138 Manhattan Avenue, Floriston, Delaware, 5959"
+    },
+    "start_time": "Saturday, June 14, 2014 7:36 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef6030b9d0f8ee9b04d8",
+    "index": 48,
+    "name": "Name_48",
+    "is_available": false,
+    "price": "$2,658.17",
+    "description": "Yoga Class 48 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "105 Celeste Court, Centerville, Maine, 2940"
+    },
+    "start_time": "Saturday, February 27, 2016 3:12 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef6088556cae60b6955f",
+    "index": 49,
+    "name": "Name_49",
+    "is_available": false,
+    "price": "$2,599.17",
+    "description": "Yoga Class 49 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "935 Rockaway Avenue, Herlong, Kentucky, 4867"
+    },
+    "start_time": "Thursday, May 28, 2015 7:15 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60c0dc1ef3aafed0f4",
+    "index": 50,
+    "name": "Name_50",
+    "is_available": true,
+    "price": "$3,350.18",
+    "description": "Yoga Class 50 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "431 Cyrus Avenue, Edinburg, Alabama, 9326"
+    },
+    "start_time": "Tuesday, August 19, 2014 2:50 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef604b48217680370017",
+    "index": 51,
+    "name": "Name_51",
+    "is_available": true,
+    "price": "$1,690.42",
+    "description": "Yoga Class 51 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "336 Rock Street, Laurelton, Maryland, 1320"
+    },
+    "start_time": "Thursday, April 17, 2014 5:00 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef6007cb06d89d1d3d75",
+    "index": 52,
+    "name": "Name_52",
+    "is_available": false,
+    "price": "$2,154.95",
+    "description": "Yoga Class 52 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "572 Gold Street, Sisquoc, West Virginia, 556"
+    },
+    "start_time": "Tuesday, November 18, 2014 9:34 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60dda004d37d739baf",
+    "index": 53,
+    "name": "Name_53",
+    "is_available": false,
+    "price": "$1,718.80",
+    "description": "Yoga Class 53 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "939 Herkimer Court, Woodlands, Colorado, 2526"
+    },
+    "start_time": "Friday, July 11, 2014 4:31 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60c9b979159a75a078",
+    "index": 54,
+    "name": "Name_54",
+    "is_available": true,
+    "price": "$2,014.24",
+    "description": "Yoga Class 54 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "131 Bokee Court, Tedrow, Rhode Island, 6127"
+    },
+    "start_time": "Friday, August 29, 2014 8:45 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef6059f3a593e280f3a7",
+    "index": 55,
+    "name": "Name_55",
+    "is_available": true,
+    "price": "$1,267.41",
+    "description": "Yoga Class 55 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "692 Whitwell Place, Saticoy, Guam, 9092"
+    },
+    "start_time": "Friday, January 24, 2014 9:46 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60d7f517d4a67901d6",
+    "index": 56,
+    "name": "Name_56",
+    "is_available": true,
+    "price": "$1,359.76",
+    "description": "Yoga Class 56 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "949 Cox Place, Clara, Nevada, 7691"
+    },
+    "start_time": "Friday, November 7, 2014 7:09 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef6067e06f66279c9de1",
+    "index": 57,
+    "name": "Name_57",
+    "is_available": true,
+    "price": "$3,619.78",
+    "description": "Yoga Class 57 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "478 Manhattan Court, Fairmount, Oklahoma, 3239"
+    },
+    "start_time": "Thursday, May 7, 2015 5:47 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60f4c3320c9e79e620",
+    "index": 58,
+    "name": "Name_58",
+    "is_available": false,
+    "price": "$3,207.36",
+    "description": "Yoga Class 58 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "839 Friel Place, Woodburn, Minnesota, 1549"
+    },
+    "start_time": "Sunday, February 1, 2015 5:46 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60926ad50a09512d8d",
+    "index": 59,
+    "name": "Name_59",
+    "is_available": true,
+    "price": "$1,839.13",
+    "description": "Yoga Class 59 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "508 Brown Street, Chestnut, Hawaii, 1969"
+    },
+    "start_time": "Tuesday, November 4, 2014 9:55 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef6003cb859822091651",
+    "index": 60,
+    "name": "Name_60",
+    "is_available": true,
+    "price": "$1,051.16",
+    "description": "Yoga Class 60 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "861 Newton Street, Itmann, American Samoa, 3391"
+    },
+    "start_time": "Friday, July 25, 2014 12:51 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60dcb794641a6149c2",
+    "index": 61,
+    "name": "Name_61",
+    "is_available": true,
+    "price": "$3,570.07",
+    "description": "Yoga Class 61 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "455 Arlington Place, Farmers, Arkansas, 774"
+    },
+    "start_time": "Tuesday, February 3, 2015 7:39 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef6019c40389a4cf972d",
+    "index": 62,
+    "name": "Name_62",
+    "is_available": false,
+    "price": "$1,702.04",
+    "description": "Yoga Class 62 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "584 Gain Court, Darrtown, Michigan, 7044"
+    },
+    "start_time": "Thursday, July 3, 2014 8:09 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60a7fee581ce918ad9",
+    "index": 63,
+    "name": "Name_63",
+    "is_available": false,
+    "price": "$2,717.97",
+    "description": "Yoga Class 63 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "586 Minna Street, Rose, Pennsylvania, 3949"
+    },
+    "start_time": "Thursday, May 21, 2015 9:55 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60fb5e425dabfd0344",
+    "index": 64,
+    "name": "Name_64",
+    "is_available": false,
+    "price": "$2,593.66",
+    "description": "Yoga Class 64 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "829 Aviation Road, Bergoo, Arizona, 3588"
+    },
+    "start_time": "Thursday, January 16, 2014 1:06 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60af5d44625f507113",
+    "index": 65,
+    "name": "Name_65",
+    "is_available": false,
+    "price": "$1,942.44",
+    "description": "Yoga Class 65 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "640 Cherry Street, Williamson, Alaska, 1963"
+    },
+    "start_time": "Tuesday, August 11, 2015 10:33 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60e11d2e5e8fc82f18",
+    "index": 66,
+    "name": "Name_66",
+    "is_available": true,
+    "price": "$2,192.38",
+    "description": "Yoga Class 66 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "685 Meserole Street, Davenport, Palau, 6129"
+    },
+    "start_time": "Friday, October 16, 2015 1:54 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60010fd5f3efaaa366",
+    "index": 67,
+    "name": "Name_67",
+    "is_available": false,
+    "price": "$3,680.18",
+    "description": "Yoga Class 67 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "322 Henderson Walk, Noxen, Northern Mariana Islands, 6494"
+    },
+    "start_time": "Friday, October 9, 2015 7:43 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef604b61c421691e6b4d",
+    "index": 68,
+    "name": "Name_68",
+    "is_available": false,
+    "price": "$2,293.54",
+    "description": "Yoga Class 68 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "317 Grace Court, Sexton, Missouri, 9984"
+    },
+    "start_time": "Friday, April 24, 2015 1:20 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60f6d8c32c0757b6cd",
+    "index": 69,
+    "name": "Name_69",
+    "is_available": true,
+    "price": "$1,589.70",
+    "description": "Yoga Class 69 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "608 Allen Avenue, Wiscon, North Dakota, 7610"
+    },
+    "start_time": "Friday, August 14, 2015 12:47 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60084b81a0445e93b8",
+    "index": 70,
+    "name": "Name_70",
+    "is_available": false,
+    "price": "$3,194.12",
+    "description": "Yoga Class 70 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "843 Wortman Avenue, Enoree, Tennessee, 1867"
+    },
+    "start_time": "Thursday, January 29, 2015 1:07 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60a5717d847cd4c6f0",
+    "index": 71,
+    "name": "Name_71",
+    "is_available": true,
+    "price": "$3,926.48",
+    "description": "Yoga Class 71 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "652 Livingston Street, Allensworth, Marshall Islands, 8544"
+    },
+    "start_time": "Saturday, July 11, 2015 6:27 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60862b2952129933ab",
+    "index": 72,
+    "name": "Name_72",
+    "is_available": true,
+    "price": "$1,526.66",
+    "description": "Yoga Class 72 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "604 Forest Place, Nicut, California, 827"
+    },
+    "start_time": "Thursday, October 2, 2014 9:23 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60c7428ec29b31f468",
+    "index": 73,
+    "name": "Name_73",
+    "is_available": false,
+    "price": "$1,960.06",
+    "description": "Yoga Class 73 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "506 Perry Place, Madrid, Kansas, 8393"
+    },
+    "start_time": "Thursday, February 20, 2014 1:00 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60de1cceac1388b8c4",
+    "index": 74,
+    "name": "Name_74",
+    "is_available": false,
+    "price": "$1,708.70",
+    "description": "Yoga Class 74 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "314 Fleet Street, Waukeenah, Louisiana, 7208"
+    },
+    "start_time": "Friday, September 18, 2015 11:43 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60f34b4e9d4af6d226",
+    "index": 75,
+    "name": "Name_75",
+    "is_available": true,
+    "price": "$1,115.44",
+    "description": "Yoga Class 75 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "601 Hull Street, Groton, Georgia, 8669"
+    },
+    "start_time": "Tuesday, April 21, 2015 9:02 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef608dafb7010a21edd9",
+    "index": 76,
+    "name": "Name_76",
+    "is_available": true,
+    "price": "$2,561.58",
+    "description": "Yoga Class 76 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "122 Elizabeth Place, Ilchester, Federated States Of Micronesia, 3770"
+    },
+    "start_time": "Tuesday, April 21, 2015 4:44 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60e79b68b16600a1ec",
+    "index": 77,
+    "name": "Name_77",
+    "is_available": false,
+    "price": "$3,787.96",
+    "description": "Yoga Class 77 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "836 Thatford Avenue, Tyhee, Mississippi, 1626"
+    },
+    "start_time": "Thursday, April 9, 2015 3:58 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef6067714bd4e4003eaa",
+    "index": 78,
+    "name": "Name_78",
+    "is_available": true,
+    "price": "$2,883.96",
+    "description": "Yoga Class 78 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "149 Wolcott Street, Sylvanite, South Dakota, 9920"
+    },
+    "start_time": "Monday, January 20, 2014 6:28 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60b2d27983f34ba286",
+    "index": 79,
+    "name": "Name_79",
+    "is_available": true,
+    "price": "$3,275.06",
+    "description": "Yoga Class 79 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "181 Miller Place, Vincent, Texas, 433"
+    },
+    "start_time": "Sunday, October 25, 2015 5:27 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60c44103dadd134a6e",
+    "index": 80,
+    "name": "Name_80",
+    "is_available": false,
+    "price": "$2,743.62",
+    "description": "Yoga Class 80 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "830 Jodie Court, Shrewsbury, Iowa, 8956"
+    },
+    "start_time": "Tuesday, February 9, 2016 7:09 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60f89566135bce3dac",
+    "index": 81,
+    "name": "Name_81",
+    "is_available": false,
+    "price": "$1,487.38",
+    "description": "Yoga Class 81 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "640 Nevins Street, Vienna, Illinois, 828"
+    },
+    "start_time": "Saturday, August 1, 2015 8:57 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef6043687efd0ae74a8b",
+    "index": 82,
+    "name": "Name_82",
+    "is_available": true,
+    "price": "$3,118.91",
+    "description": "Yoga Class 82 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "644 Dikeman Street, Kent, Virginia, 7809"
+    },
+    "start_time": "Saturday, April 12, 2014 3:28 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef6044df2c336dfcc96d",
+    "index": 83,
+    "name": "Name_83",
+    "is_available": false,
+    "price": "$3,882.51",
+    "description": "Yoga Class 83 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "743 Green Street, Websterville, North Carolina, 4404"
+    },
+    "start_time": "Wednesday, July 1, 2015 12:48 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60d05f8641f0775079",
+    "index": 84,
+    "name": "Name_84",
+    "is_available": true,
+    "price": "$1,915.31",
+    "description": "Yoga Class 84 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "549 Main Street, Frystown, Virgin Islands, 8062"
+    },
+    "start_time": "Sunday, February 7, 2016 11:54 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60c8d9e5d16ec90ecf",
+    "index": 85,
+    "name": "Name_85",
+    "is_available": true,
+    "price": "$1,598.99",
+    "description": "Yoga Class 85 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "269 Sunnyside Avenue, Baker, New Mexico, 7074"
+    },
+    "start_time": "Tuesday, February 18, 2014 9:43 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60a03676f584db62e3",
+    "index": 86,
+    "name": "Name_86",
+    "is_available": true,
+    "price": "$2,662.76",
+    "description": "Yoga Class 86 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "197 Indiana Place, Cascades, Montana, 494"
+    },
+    "start_time": "Friday, May 29, 2015 2:44 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60a0d8265ec85c8cb5",
+    "index": 87,
+    "name": "Name_87",
+    "is_available": false,
+    "price": "$2,679.46",
+    "description": "Yoga Class 87 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "204 Langham Street, Frizzleburg, Ohio, 3554"
+    },
+    "start_time": "Wednesday, February 5, 2014 6:36 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef600ec1094e89bc7bba",
+    "index": 88,
+    "name": "Name_88",
+    "is_available": true,
+    "price": "$3,240.71",
+    "description": "Yoga Class 88 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "898 Bushwick Court, Brenton, Wyoming, 2764"
+    },
+    "start_time": "Thursday, February 25, 2016 8:00 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef604903a82ee3cfbd2b",
+    "index": 89,
+    "name": "Name_89",
+    "is_available": false,
+    "price": "$1,013.30",
+    "description": "Yoga Class 89 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "712 Box Street, Bedias, South Carolina, 7526"
+    },
+    "start_time": "Tuesday, October 13, 2015 10:20 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60edbe761302e3c3ef",
+    "index": 90,
+    "name": "Name_90",
+    "is_available": true,
+    "price": "$3,626.55",
+    "description": "Yoga Class 90 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "909 Dakota Place, Tyro, Oregon, 5906"
+    },
+    "start_time": "Monday, November 10, 2014 10:05 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef607558ae99df2decf4",
+    "index": 91,
+    "name": "Name_91",
+    "is_available": true,
+    "price": "$1,241.39",
+    "description": "Yoga Class 91 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "827 Buffalo Avenue, Beechmont, Puerto Rico, 1700"
+    },
+    "start_time": "Saturday, August 29, 2015 3:02 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef6088484ccd4e145998",
+    "index": 92,
+    "name": "Name_92",
+    "is_available": true,
+    "price": "$1,337.23",
+    "description": "Yoga Class 92 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "744 Seaview Court, Fingerville, Washington, 5330"
+    },
+    "start_time": "Thursday, December 18, 2014 9:29 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef6007c53966ae93bff2",
+    "index": 93,
+    "name": "Name_93",
+    "is_available": false,
+    "price": "$1,567.80",
+    "description": "Yoga Class 93 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "369 Adler Place, Eagleville, New Jersey, 9998"
+    },
+    "start_time": "Wednesday, August 26, 2015 5:00 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef605280ce2c759824c4",
+    "index": 94,
+    "name": "Name_94",
+    "is_available": false,
+    "price": "$2,067.05",
+    "description": "Yoga Class 94 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "555 Joval Court, Carlos, Nebraska, 6563"
+    },
+    "start_time": "Tuesday, January 27, 2015 10:53 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef6024138650ad8e6216",
+    "index": 95,
+    "name": "Name_95",
+    "is_available": false,
+    "price": "$2,077.70",
+    "description": "Yoga Class 95 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "959 King Street, Vaughn, Massachusetts, 2244"
+    },
+    "start_time": "Thursday, June 5, 2014 5:43 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef606c23ff335153532c",
+    "index": 96,
+    "name": "Name_96",
+    "is_available": true,
+    "price": "$1,705.69",
+    "description": "Yoga Class 96 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "329 Horace Court, Hemlock, Idaho, 6574"
+    },
+    "start_time": "Saturday, March 28, 2015 5:22 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef6086764dd7724cc499",
+    "index": 97,
+    "name": "Name_97",
+    "is_available": true,
+    "price": "$2,400.30",
+    "description": "Yoga Class 97 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "338 Nassau Street, Fedora, Indiana, 9199"
+    },
+    "start_time": "Sunday, May 17, 2015 8:41 AM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef60edf862b75fded163",
+    "index": 98,
+    "name": "Name_98",
+    "is_available": true,
+    "price": "$3,083.31",
+    "description": "Yoga Class 98 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "338 Haring Street, Garberville, Vermont, 5421"
+    },
+    "start_time": "Monday, December 22, 2014 8:43 PM",
+    "length": "1 hour"
+  },
+  {
+    "_id": "56dcef602a1ca063d037477c",
+    "index": 99,
+    "name": "Name_99",
+    "is_available": false,
+    "price": "$1,098.94",
+    "description": "Yoga Class 99 is greate",
+    "studio": {
+      "name": "Studio_undefined",
+      "address": "837 Kingsway Place, Indio, Wisconsin, 9585"
+    },
+    "start_time": "Sunday, January 24, 2016 6:20 AM",
+    "length": "1 hour"
+  }
+]}

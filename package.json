@@ -1,0 +1,16 @@
+{
+  "name": "ygstudios",
+  "version": "0.1.0",
+  "description": "ygstudios mini project",
+  "main": "index.2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikhail Fedorenko",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.13.4",
+    "express-graphql": "^0.4.9",
+    "graphql": "^0.4.18"
+  }
+}
